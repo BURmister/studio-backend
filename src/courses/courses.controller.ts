@@ -16,11 +16,4 @@ export class CoursesController {
    getOneCourse(@Param('id') id: string) {
       return this.productService.getById(id)
    }
-
-   @Post()
-   @HttpCode(HttpStatus.CREATED)
-   @Header('Cache-Control', 'none')
-   create(@Body() createCoursetDto: CreateCoursesDto) {
-      return this.productService.create(createCoursetDto)
-   }
 }
