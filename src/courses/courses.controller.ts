@@ -14,6 +14,6 @@ export class CoursesController {
 
    @Get(':id')
    getOneCourse(@Param('id') id: string) {
-      return this.productService.getById(id)
+      return this.productService.getById(id) 
    }
 }

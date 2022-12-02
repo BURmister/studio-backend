@@ -13,7 +13,8 @@ export class TimetableService {
     return this.timetableModel.find().exec();
   }
 
-  async getById(id: string): Promise<Timetable> {
-    return this.timetableModel.findById(id);
+  async getOne(id: string): Promise<Timetable> {
+    return this.timetableModel.findOne({date: id});
   }
+
 }

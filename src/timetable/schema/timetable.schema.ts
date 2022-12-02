@@ -9,22 +9,12 @@ export class Timetable {
    id: string
 
    @Prop()
-   name: string
-   
-   @Prop()
-   img: string
-   
-   @Prop()
-   description: string
+   date: string
 
    @Prop()
-   lasting: string
-
-   @Prop()
-   price: string
-
-   @Prop()
-   curator: string
+   courses: [
+      {course_id: string, time: string}
+   ]
 }
 
 export const TimetableSchema = SchemaFactory.createForClass(Timetable);

@@ -16,9 +16,4 @@ export class CoursesService {
    async getById(id: string): Promise<Course> {
       return this.courseModel.findById(id)
    }
-
-   async create(courseDto: CreateCoursesDto): Promise<Course> {
-      const newCourse = new this.courseModel(courseDto)
-      return newCourse.save()
-   }
 }

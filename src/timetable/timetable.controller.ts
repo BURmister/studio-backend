@@ -22,6 +22,6 @@ export class TimetableController {
 
   @Get(':id')
   getOneTimetable(@Param('id') id: string) {
-    return this.timetableService.getById(id);
+    return this.timetableService.getOne(id)
   }
 }
