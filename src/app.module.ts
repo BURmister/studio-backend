@@ -6,12 +6,14 @@ import { AppController } from './app.controller';
 import { AppService } from './app.service';
 import { getMongoConfig } from './config/mongo.config'
 import { CoursesModule } from './courses/courses.module';
+import { NewsModule } from './news/news.module';
 import { TimetableModule } from './timetable/timetable.module';
 
 @Module({
   imports: [
     CoursesModule,
     TimetableModule,
+    NewsModule,
     // ConfigModule.forRoot(),
     // TypegooseModule.forRootAsync({
     //   imports: [ConfigModule],
