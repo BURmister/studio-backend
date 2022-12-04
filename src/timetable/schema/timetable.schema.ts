@@ -12,9 +12,7 @@ export class Timetable {
    date: string
 
    @Prop()
-   courses: [
-      {course_id: string, time: string}
-   ]
+   courses: {course_id: string, time: string}[]
 }
 
 export const TimetableSchema = SchemaFactory.createForClass(Timetable);

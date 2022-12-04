@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "6389106cbe5bb4cb737160ea"
+  },
+  "key": "data-analytic",
+  "name": "аналитик данных",
+  "img": "https://github.com/BURmister/studio/blob/main/src/assets/img/course8.png?raw=true",
+  "description": "Научитесь собирать, обрабатывать, изучать и интерпретировать данные!",
+  "lasting": "72 часа",
+  "price": "12000",
+  "curator": "Иванов Иван Иванович"
+},{
+  "_id": {
+    "$oid": "6389111dbe5bb4cb737160eb"
+  },
+  "key": "python-developer",
+  "name": "разработка на python",
+  "img": "https://github.com/BURmister/studio/blob/main/src/assets/img/course12.png?raw=true",
+  "description": "Изучите высокоуровневый язык программирования общего назначения с динамической типизацией",
+  "lasting": "72 часа",
+  "price": "25000",
+  "curator": "Иванов Иван Иванович"
+},{
+  "_id": {
+    "$oid": "63891152be5bb4cb737160ec"
+  },
+  "key": "java-developer",
+  "name": "java-разработчик",
+  "img": "https://github.com/BURmister/studio/blob/main/src/assets/img/course11.png?raw=true",
+  "description": "Научитесь создавать бэкэнд для сайтов и приложений",
+  "lasting": "72 часа",
+  "price": "26000",
+  "curator": "Иванов Иван Иванович"
+},{
+  "_id": {
+    "$oid": "63891171be5bb4cb737160ed"
+  },
+  "key": "ux-development",
+  "name": "UX-разработка",
+  "img": "https://github.com/BURmister/studio/blob/main/src/assets/img/course10.png?raw=true",
+  "description": "Научитесь проектировать и кастомизировать интерфейсы приложений",
+  "lasting": "72 часа",
+  "price": "16000",
+  "curator": "Иванов Иван Иванович"
+},{
+  "_id": {
+    "$oid": "63891191be5bb4cb737160ee"
+  },
+  "key": "system-analytics",
+  "name": "системная аналитика",
+  "img": "https://github.com/BURmister/studio/blob/main/src/assets/img/course9.png?raw=truecourse9",
+  "description": "Научитесь решать и выявлять сложные организационно-технические проблемы",
+  "lasting": "72 часа",
+  "price": "21000",
+  "curator": "Иванов Иван Иванович"
+},{
+  "_id": {
+    "$oid": "638911b0be5bb4cb737160ef"
+  },
+  "key": "business-logic",
+  "name": "бизнес логика",
+  "img": "https://github.com/BURmister/studio/blob/main/src/assets/img/course1.png?raw=true",
+  "description": "Научитесь создавать правила и ограничения автоматизируемых операций",
+  "lasting": "72 часа",
+  "price": "15000",
+  "curator": "Иванов Иван Иванович"
+},{
+  "_id": {
+    "$oid": "638911cdbe5bb4cb737160f0"
+  },
+  "key": "unity-developer",
+  "name": "Unity-разработчик",
+  "img": "https://github.com/BURmister/studio/blob/main/src/assets/img/course7.png?raw=truecourse7",
+  "description": "Научитесь разрабатывать игры при помощи движка Unity и языка C#",
+  "lasting": "72 часа",
+  "price": "34000",
+  "curator": "Иванов Иван Иванович"
+},{
+  "_id": {
+    "$oid": "638911e3be5bb4cb737160f1"
+  },
+  "key": "ui-ux-development",
+  "name": "разработка интерфейсов",
+  "img": "https://github.com/BURmister/studio/blob/main/src/assets/img/course4.png?raw=true",
+  "description": "Изучите основы организации и разработки UI/UX - интерфейсов ",
+  "lasting": "72 часа",
+  "price": "20000",
+  "curator": "Иванов Иван Иванович"
+},{
+  "_id": {
+    "$oid": "638911f3be5bb4cb737160f2"
+  },
+  "key": "it-managment",
+  "name": "IT-managment",
+  "img": "https://github.com/BURmister/studio/blob/main/src/assets/img/course3.png?raw=true\n",
+  "description": "Научитесь управлять информационными технологиями конкретного предприятия",
+  "lasting": "72 часа",
+  "price": "17000",
+  "curator": "Иванов Иван Иванович"
+},{
+  "_id": {
+    "$oid": "63891204be5bb4cb737160f3"
+  },
+  "key": "frontend-developer",
+  "name": "Frontend-разработчик",
+  "img": "https://github.com/BURmister/studio/blob/main/src/assets/img/course2.png?raw=true",
+  "description": "Изучите современные фреймоврки для создания веб-приложений",
+  "lasting": "72 часа",
+  "price": "23000",
+  "curator": "Иванов Иван Иванович"
+}]

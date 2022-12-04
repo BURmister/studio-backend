@@ -1,0 +1,177 @@
+[{
+  "_id": {
+    "$oid": "6389cba530367f7b996832a6"
+  },
+  "date": "december_2",
+  "courses": [
+    {
+      "course_id": "6389106cbe5bb4cb737160ea",
+      "time": "11:23"
+    },
+    {
+      "course_id": "638911b0be5bb4cb737160ef",
+      "time": "12:00"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6389d63e30367f7b996832a7"
+  },
+  "date": "december_3",
+  "courses": [
+    {
+      "course_id": "63891204be5bb4cb737160f3",
+      "time": "10:00"
+    },
+    {
+      "course_id": "638911f3be5bb4cb737160f2",
+      "time": "13:00"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "638a1cbed28aa5340d490e16"
+  },
+  "date": "december_5",
+  "courses": [
+    {
+      "course_id": "638911f3be5bb4cb737160f2",
+      "time": "10:30"
+    },
+    {
+      "course_id": "63891204be5bb4cb737160f3",
+      "time": "11:00"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "638a1f6dd28aa5340d490e17"
+  },
+  "date": "december_6",
+  "courses": [
+    {
+      "course_id": "63891171be5bb4cb737160ed",
+      "time": "10:30"
+    },
+    {
+      "course_id": "6389106cbe5bb4cb737160ea",
+      "time": "11:00"
+    },
+    {
+      "course_id": "63891191be5bb4cb737160ee",
+      "time": "11:00"
+    },
+    {
+      "course_id": "6389111dbe5bb4cb737160eb",
+      "time": "11:30"
+    },
+    {
+      "course_id": "63891152be5bb4cb737160ec",
+      "time": "12:00"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "638a1fd7d28aa5340d490e18"
+  },
+  "date": "december_7",
+  "courses": [
+    {
+      "course_id": "638911f3be5bb4cb737160f2",
+      "time": "10:30"
+    },
+    {
+      "course_id": "638911e3be5bb4cb737160f1",
+      "time": "11:00"
+    },
+    {
+      "course_id": "638911cdbe5bb4cb737160f0",
+      "time": "11:00"
+    },
+    {
+      "course_id": "638911b0be5bb4cb737160ef",
+      "time": "11:30"
+    },
+    {
+      "course_id": "63891191be5bb4cb737160ee",
+      "time": "12:00"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "638a2028d28aa5340d490e19"
+  },
+  "date": "december_8",
+  "courses": [
+    {
+      "course_id": "63891171be5bb4cb737160ed",
+      "time": "10:30"
+    },
+    {
+      "course_id": "63891152be5bb4cb737160ec",
+      "time": "11:00"
+    },
+    {
+      "course_id": "6389111dbe5bb4cb737160eb",
+      "time": "11:00"
+    },
+    {
+      "course_id": "6389106cbe5bb4cb737160ea",
+      "time": "11:30"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "638a2093d28aa5340d490e1a"
+  },
+  "date": "december_9",
+  "courses": [
+    {
+      "course_id": "63891204be5bb4cb737160f3",
+      "time": "10:30"
+    },
+    {
+      "course_id": "638911f3be5bb4cb737160f2",
+      "time": "11:00"
+    },
+    {
+      "course_id": "6389106cbe5bb4cb737160ea",
+      "time": "11:00"
+    },
+    {
+      "course_id": "63891171be5bb4cb737160ed",
+      "time": "11:30"
+    },
+    {
+      "course_id": "638911e3be5bb4cb737160f1",
+      "time": "12:00"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "638a20c3d28aa5340d490e1b"
+  },
+  "date": "december_10",
+  "courses": [
+    {
+      "course_id": "638911cdbe5bb4cb737160f0",
+      "time": "10:30"
+    },
+    {
+      "course_id": "63891152be5bb4cb737160ec",
+      "time": "11:00"
+    },
+    {
+      "course_id": "6389111dbe5bb4cb737160eb",
+      "time": "11:00"
+    },
+    {
+      "course_id": "63891191be5bb4cb737160ee",
+      "time": "11:30"
+    },
+    {
+      "course_id": "638911b0be5bb4cb737160ef",
+      "time": "12:00"
+    }
+  ]
+}]
